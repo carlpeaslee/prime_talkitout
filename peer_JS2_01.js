@@ -19,12 +19,12 @@
 
 8. Add 'value' and the new variable created in Step 6 together and store them in 'value'
 
-9. If the new value of 'value' is greater than 7352, set 'value' equal to 4. If not, check to see if it is equal to 6102, if it is, set 'value' equal to 54. 
+9. If the new value of 'value' is greater than 7352, set 'value' equal to 4. If not, check to see if it is equal to 6102, if it is, set 'value' equal to 54.
 If neither of these are true, set the value to 28.
 
 10. Create a while loop that counts down from 5 and increments 'value' by 1.
 
-11. Create a function that accepts an argument 'val'. The function should convert 'val' to a String, then drop the first character off the String, but only if there 
+11. Create a function that accepts an argument 'val'. The function should convert 'val' to a String, then drop the first character off the String, but only if there
 is more than 1 character in the String. Return 'val' and set the 'value' to the returned value.
 
 12. Call the function.
